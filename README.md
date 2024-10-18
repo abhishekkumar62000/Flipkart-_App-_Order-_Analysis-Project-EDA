@@ -1,5 +1,8 @@
 # Flipkart-_App-_Order-_Analysis-Project-EDA
 Flipkart App Order Analysis Project  EDA
+![flipkart-india-logo-tagline-coupon-india-854844c018b48dd05b8967e15b2b5172](https://github.com/user-attachments/assets/93750c96-e2aa-420a-8889-b4b33490fe86)
+![flip png](https://github.com/user-attachments/assets/c967a75a-8c36-466f-840b-aacf51c990ac)
+
 
 Flipkart App Order Analysis Project: EDA and Feature Engineering
 Introduction
@@ -41,3 +44,4 @@ Implement machine learning models to predict future orders.
 Validate the impact of newly engineered features on model performance.
 Continue monitoring trends and adapting strategies based on insights gathered.
 This project not only provides a comprehensive analysis of Flipkart app orders but also sets the stage for future data-driven decisions in e-commerce strategies.
+
